@@ -5,7 +5,7 @@
  * You need to write the logic that tells student drivers what to do
  * when they encounter different traffic light signals.
  *
- * Signal → Action:
+ * Signal → Action
  *   - "green"        → "GO"
  *   - "yellow"       → "SLOW DOWN"
  *   - "red"          → "STOP"
